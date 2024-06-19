@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chirag1115
-- 👀 I’m interested in ... CODING
+- 👀 I’m interested in ... Digital Markerting 
 - 🌱 I’m currently learning ..BSC-IT
-- 💞️ I’m looking to collaborate on ... CODING
 - 📫 How to reach me ...c.chirag0511@gmail.com
 
 <!---
